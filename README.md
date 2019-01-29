@@ -1,6 +1,6 @@
 # utrack-react-native
 
-Front-end React Native client for the platform to manage student workshops for Winston Education Group.
+A React Native front-end client for the platform to manage student workshops for Winston Education Group.
 
 ## Included
 
